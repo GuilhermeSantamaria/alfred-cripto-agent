@@ -87,9 +87,9 @@ Receba dados confiáveis em poucos segundos:
 
 ## 🧰 Requisitos
 
-- Python 3.10 ou superior
-- Conta no Google AI Studio com chave de API ativa
-- Acesso à internet para consultas em tempo real na CoinGecko
+- Python 3.10 ou superior.
+- Conta no Google AI Studio com chave de API ativa.
+- Acesso à internet para consultas em tempo real na CoinGecko.
 
 ## 📄 Licença
 
