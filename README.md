@@ -26,8 +26,6 @@ git clone https://github.com/GuilhermeSantamaria/alfred-cripto-agent.git
 cd alfred-cripto-agent
 ```
 
-![Passo 1](assets/passo1.png)
-
 ### 🐍 2. Crie e ative um ambiente virtual Python:
 
 ```powershell
@@ -35,15 +33,11 @@ python -m venv venv
 .\venv\Scripts\Activate
 ```
 
-![Passo 2](assets/passo2.png)
-
 ### 📦 3. Instale as dependências
 
 ```powershell
 pip install -r requirements.txt
 ```
-
-![Passo 3](assets/passo3.png)
 
 ### 🔑 4. Configure sua chave da API Gemini
 
@@ -52,8 +46,6 @@ Use o arquivo `.env.example` como base. Crie um `.env` na raiz do projeto com a 
 ```powershell
 GOOGLE_API_KEY=sua_chave_aqui
 ```
-
-![Passo 4](assets/passo4.png)
 
 🔐 Substitua `sua_chave_aqui` pela sua chave obtida no [Google AI Studio](https://aistudio.google.com/app/apikey).
 
