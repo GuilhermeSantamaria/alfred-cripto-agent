@@ -1,6 +1,4 @@
-# Alfred, um agente de IA especialista em Criptomoedas
-
-Alfred é um agente de IA que fornece comparativos, informações e consultas de Criptomoedas em tempo real. Utiliza o modelo **Google Gemini 1.5 Flash** para interatividade com o usuário e a **API CoinGecko** para obter dados confiáveis sobre os ativos digitais.
+# Alfred, um agente de IA especialista em Criptomoedas.
 
 ## 📖 índice:
 
@@ -13,7 +11,7 @@ Alfred é um agente de IA que fornece comparativos, informações e consultas de
 
 ## 📌 Sobre o Projeto:
 
-O Alfred é um assistente de IA que interpreta comandos em linguagem natural e responde com dados atualizados de criptomoedas como Bitcoin, Ethereum, Cardano, Solana, entre outras. Utiliza dados em tempo real da CoinGecko e inteligência artificial via Gemini.
+Alfred é um agente de IA que fornece comparativos, informações e consultas de Criptomoedas em tempo real. Utiliza o modelo **Google Gemini 1.5 Flash** para interatividade com o usuário e a **API CoinGecko** para obter dados confiáveis sobre os ativos digitais. Ele interpreta comandos em linguagem natural, você pode perguntar sobre Bitcoin, Ethereum, Cardano, Solana, entre outras.
 
 ## 🔧 Como Usar:
 
